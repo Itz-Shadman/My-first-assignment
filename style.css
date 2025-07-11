@@ -258,7 +258,7 @@ body{
     display: block;
     justify-content: center;
     align-items: center;
-    margin: 120px 230px ;
+    margin: 120px auto ;
     border: 1px solid #4E47FF;
     width: 1140px;
     height: 696.77px;
